@@ -1,6 +1,4 @@
 react-native-check-box
- release  PRs Welcome  NPM version License MIT
-
 Checkbox component for react native, it works on iOS and Android.
 
 Content
